@@ -8,7 +8,6 @@ public class LearnLoops {
 		ll.usingDoWhileLoop();
 		ll.usingForLoop();
 	}
-
 	public void usingWhileLoop() {		
 		int i =1, sum=0; // Initialize values
 		while (i>=5) {   // Conditions
@@ -17,7 +16,6 @@ public class LearnLoops {
 		}
 		System.out.println(sum);		
 	}
-
 	public void usingDoWhileLoop() {
 		int i =1, sum=0;
 		do {
@@ -25,8 +23,7 @@ public class LearnLoops {
 			i++;
 		}while(i>=5);
 		System.out.println(sum);
-	}
-	
+	}	
 	public void usingForLoop() {
 		int sum = 0;
 		for(int i=1; i<=5; i++) {
