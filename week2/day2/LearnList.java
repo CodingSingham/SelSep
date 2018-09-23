@@ -6,7 +6,7 @@ import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Set;
 
-public class Basic {
+public class LearnList {
 	public static void main(String[] args) {
 		/*		String name = "koushik";
 		String[] names = new String[2];
